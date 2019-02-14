@@ -1,0 +1,19 @@
+{
+  "name": "jingdian",
+  "version": "1.0.0",
+  "description": "宁夏景点，练习",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lxx929/jingdian.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lxx929/jingdian/issues"
+  },
+  "homepage": "https://github.com/lxx929/jingdian#readme"
+}
